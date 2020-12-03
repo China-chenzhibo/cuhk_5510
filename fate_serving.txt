@@ -1,0 +1,24 @@
+
+            "model_id": "arbiter-10000#guest-9999#host-10000#model",
+            "model_version": "202011291847540456238"
+
+            "model_id": "arbiter-10000#guest-9999#host-10000#model",
+            "model_version": "2020113003560319308022"
+
+
+{
+  "head": {
+    "serviceId": "short_term"
+  },
+  "body": {
+    "featureData": {
+      "x0": 5,
+      "x1": 1068617,
+      "x2": 20.5,
+      "x3": 1,
+    },
+    "sendToRemoteFeatureData": {
+      "id": "123"
+    }
+  }
+}
